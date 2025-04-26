@@ -7,6 +7,7 @@
 * curl
 * zip/unzip
 * jq
+* 7zip
 
 ## Build image
 
